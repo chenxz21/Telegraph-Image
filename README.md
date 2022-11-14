@@ -29,6 +29,8 @@ Free Image Hosting solution, Flickr/imgur alternative. Using Cloudflare Pages an
 在pages的自定义域里面，绑定cloudflare中存在的域名，在cloudflare托管的域名，自动会修改dns记录
 ![2](https://telegraph-image.pages.dev/file/29546e3a7465a01281ee2.png)
 
+
+
 ### 开启图片审查
 1.请前往https://moderatecontent.com/ 注册并获得一个免费的用于审查图像内容的API key
 
